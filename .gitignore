@@ -1,0 +1,12 @@
+.env
+*.session
+*.session-journal
+__pycache__/
+*.py[cod]
+downloads/*
+output/*
+temp/*
+logs/*
+!downloads/.gitkeep
+!output/.gitkeep
+!temp/.gitkeep
